@@ -3,7 +3,7 @@
 ![Logo](assets/Identity.jpg)
 
 <p align="center">
-  <img src="assets/logo-icon.svg" alt="L'ORIGINAL Logo" width="600"/>
+  <img src="assets/logo-icon.svg" alt="L'ORIGINAL Logo" width="150" height="auto/>
 </p>
 
 <p align="center">
