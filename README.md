@@ -51,3 +51,60 @@ In markets flooded with unverified intermediaries and sub-par imports, L’ORIGI
 ---
 
 ## 🏗️ Business Architecture
+
+[ Global Suppliers / EU / Asia ]
+              │
+              ▼
+[ L’ORIGINAL Sourcing & Verification ]
+              │
+              ▼
+[ Freight & Logistics Pipeline ]
+              │
+              ▼
+[ Regional Distribution & B2B Wholesale ]
+
+### Strategic Focus Areas
+1. **B2B Wholesale (Primary):** Bulk importing and supply contracts for local distributors, retail chains, and commercial enterprises.
+2. **Direct-to-Business / B2C (Secondary):** Selective distribution of specialized, high-margin product verticals.
+
+---
+
+## 🎨 Brand Identity
+
+* **Primary Mark:** Custom wordmark featuring the integrated signature **Ó**.
+* **Visual Direction:** Minimalist, bold, and contemporary sans-serif typography.
+* **Color Palette:** 
+  * Deep Charcoal / Black (`#1A1A1A`)
+  * Warm Off-White (`#F9F9F8`)
+  * Terracotta / Copper Accent (`#B85233`)
+
+---
+
+## 🗓️ Strategic Roadmap
+
+- [x] **Phase 1: Brand Foundation**
+  - [x] Visual Brand Identity & Logo System
+  - [x] Brand Positioning & Architecture
+- [ ] **Phase 2: Operational Infrastructure**
+  - [ ] Legal Entity & Trademark Registration
+  - [ ] Freight Route & Logistics Partner Mapping
+  - [ ] Initial Sourcing Category Definition
+- [ ] **Phase 3: Market Launch**
+  - [ ] Pilot Product Procurement
+  - [ ] B2B Onboarding & Regional Distribution Contracts
+
+---
+
+## 📬 Contact & Inquiries
+
+For partnership, sourcing, or distribution inquiries:
+
+* **Website:** [loriginal-global.com](https://loriginal-global.com) *(Upcoming)*
+* **Email:** trade@loriginal-global.com
+* **Corporate HQ:** Europe / Africa Trading Desk
+
+---
+
+<p align="center">
+  <sub>© 2026 L’ORIGINAL Global Trading & Distribution. All rights reserved.</sub>
+</p>
