@@ -2,10 +2,10 @@
 
 ![Logo](assets/Identity.jpg)
 
-<p align="center">
-  <img src="assets/logo-icon.svg" alt="L'ORIGINAL Logo" width="150" height="auto/>
-</p>
-<br>
+<div align="center">
+  <img src="assets/logo.svg" alt="L'ORIGINAL Logo" width="120">
+</div>
+
 <p align="center">
   <strong>Bridging Global Manufacturers and African Growth Markets</strong>
 </p>
