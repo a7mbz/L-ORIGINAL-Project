@@ -1,6 +1,6 @@
 # L’ORIGINAL — Global Trading & Distribution
 
-![Logo](assets/logo.svg)
+![Logo](assets/Identity.jpg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/loriginal-logo.png" alt="L'ORIGINAL Logo" width="600"/>
