@@ -99,8 +99,8 @@ In markets flooded with unverified intermediaries and sub-par imports, L’ORIGI
 
 For partnership, sourcing, or distribution inquiries:
 
-* **Website:** [loriginal-global.com](https://loriginal-global.com) *(Upcoming)*
-* **Email:** trade@loriginal-global.com
+* **Website:** loriginal-dz.com loriginal.com *(Upcoming)*
+* **Email:** Upcoming
 * **Corporate HQ:** Europe / Africa Trading Desk
 
 ---
