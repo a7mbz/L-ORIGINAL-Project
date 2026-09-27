@@ -3,7 +3,7 @@
 ![Logo](assets/Identity.jpg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/loriginal-logo.png" alt="L'ORIGINAL Logo" width="600"/>
+  <img src="assets/logo-icon.svg" alt="L'ORIGINAL Logo" width="600"/>
 </p>
 
 <p align="center">
